@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drew Brinkley</h1>
-<h3 align="center">Ask. Analyze. Visualize. <- Tell your data's story.</h3>
+<h3 align="center">Ask. Analyze. Visualize. <- Discover your data's story.</h3>
 
 - 👨‍💻 All of my projects are available at [https://drewbrinkley.github.io/](https://drewbrinkley.github.io/)
 
